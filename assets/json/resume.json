@@ -1,12 +1,9 @@
 {
   "basics": {
     "name": "Emily Zhao",
-    "label": "Student",
-    "image": "",
     "email": "guzhaoemily@gmail.com",
     "phone": "(952) 228-4256",
-    "url": "https://emilygzh.github.io",
-    "summary": "Striving to create a vivid, curious, and impactful life. Interested in Algorithm Development, Machine Learning, Cybersecurity, & all things Software!",,
+    "summary": "Striving to create a vivid, curious, and impactful life. Interested in Algorithm Development, Machine Learning, Cybersecurity, & all things Software!"
   },
   "work": [
     {

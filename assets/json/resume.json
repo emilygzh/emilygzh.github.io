@@ -30,26 +30,22 @@
       ]
     }
   ],
-  "leadership": [
+  "leadership, extracurricular involvement, & community service": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Hackathon, Duke FEMMES+",
+      "location": "Durham, North Carolina",
+      "position": "Director",
+      "url": "https://femmesplushacks.weebly.com",
+      "startDate": "2024-08",
+      "summary": "Coordinate a STEM hackathon for 100+ high school students, teaching Python & AI, data visualization, game development, and cybersecurity workshops, while mentoring participants on careers in tech."
     },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Duke Conversations",
+      "location": "Durham, North Carolina",
+      "position": "Exec",
+      "url": "https://dukeconversations.weebly.com",
+      "startDate": "2024-05",
+      "summary": "Lead the redesign and strategic expansion of Duke Conversations, advancing our mission to connect faculty and students through weekly intimate dinner discussions with administration and professors."
     },
     {
       "organization": "People's Climate March",
@@ -75,9 +71,9 @@
       "courses": ["Theory of Relativity"]
     }
   ],
-  "skills": [
+  "awards": [
     {
-      "name": "Physics",
+      "name": "Semifinalst",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
@@ -87,6 +83,49 @@
         "Quantum Cryptography",
         "Quantum Communication",
         "Quantum Teleportation"
+      ]
+    }
+  ],
+  "skills": [
+
+    {
+      "name": "Languages",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "Java",
+        "C/C++",
+        "HTML",
+        "JavaScript",
+        "Swift",
+        "MATLAB"
+      ]
+    },
+    {
+      "name": "Frameworks/Tools",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Tensorflow",
+        "PyTorch",
+        "Git",
+        "Visual Studio",
+        "Linux",
+        "Jekyll"
+      ]
+    },
+    {
+      "name": "Other Skills & Areas of Knowledge",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Product Security",
+        "Cryptography",
+        "Bluetooth",
+        "Wireless Communication",
+        "RF",
+        "LabVIEW",
+        "Spotfire",
+        "LTSpice",
+        "Excel"
       ]
     }
   ],
@@ -100,28 +139,6 @@
       "language": "Mandarin Chinese",
       "fluency": "Native speaker",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "url": "https://example.com"
     }
   ]
 }

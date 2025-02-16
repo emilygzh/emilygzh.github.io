@@ -15,4 +15,4 @@ social: true # includes social icons at the bottom of the page
 
 Born in Atlanta and raised just outside the Twin Cities, I'm now in Durham, where I'm studying Electrical/Computer Engineering and Computer Science with a minor in Political Science at Duke University.
 
-Striving to create a vivid, curious, and impactful life. Learn about my [technical experiences](https://emilygzh.github.io/teaching/), [hobbies](https://emilygzh.github.io/projects/), and [what I'm up to](https://emilygzh.github.io/blog/) in the upper right menu!
+Striving to create a vivid, curious, and impactful life. Learn about my [technical experiences](https://emilygzh.github.io/projects/), [hobbies](https://emilygzh.github.io/clickshack/), and [what I'm up to](https://emilygzh.github.io/blog/) in the upper right menu!

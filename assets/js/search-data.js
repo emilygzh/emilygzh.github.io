@@ -9,7 +9,21 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
+  },{id: "nav-about-me",
+          title: "about me",
+          description: "19 years and counting",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/aboutme/";
+          },
+        },{id: "nav-experience",
+          title: "experience",
+          description: "work &amp; project experience",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/experience/";
+          },
+        },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
@@ -29,20 +43,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-experience",
-          title: "experience",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/experience/";
-          },
-        },{id: "nav-about-me",
-          title: "about me",
-          description: "19 years and counting",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/aboutme/";
           },
         },{id: "post-a-post-with-image-galleries",
       

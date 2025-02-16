@@ -55,37 +55,15 @@ ninja.data = [{
           window.location.href = "/blog/2025/cyber/";
         
       },
-    },{id: "post-a-post-with-image-galleries",
+    },{id: "post-gtcys-spring-festival-2023",
       
-        title: "a post with image galleries",
+        title: "GTCYS Spring Festival 2023",
       
-      description: "this is what included image galleries could look like",
+      description: "An end to my time with GTCYS.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/photo-gallery/";
-        
-      },
-    },{id: "post-a-post-with-advanced-image-components",
-      
-        title: "a post with advanced image components",
-      
-      description: "this is what advanced image components could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/advanced-images/";
-        
-      },
-    },{id: "post-a-post-with-videos",
-      
-        title: "a post with videos",
-      
-      description: "this is what included videos could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/videos/";
+          window.location.href = "/blog/2023/gtcys/";
         
       },
     },{id: "news-to-be-completed-stay-tuned",

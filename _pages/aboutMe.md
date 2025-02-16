@@ -1,3 +1,50 @@
+I graduated from Mounds View High School in 2023, where I was heavily involved in Student Council, Minnesota Youth in Government, Science Olympiad, a melange of community service organizations, and orchestras. 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/pepfest.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/jcospeech.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Student Council
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sanford.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/clerk.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Youth in Government
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sciolystate22.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sciolynatskc.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Science Olympiad 
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/mvallstate.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/celloallstate.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    All-State Orchestra 
+</div>
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. 

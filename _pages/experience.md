@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /projects/
-title: projects
+permalink: /experience/
+title: experience
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6

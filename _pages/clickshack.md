@@ -2,7 +2,7 @@
 layout: page
 title: click shack
 permalink: /clickshack/
-description: Through my lens. I picked up my dad's Canon/Nikon gear as a kid and haven't put a camera down since. In 2024, I restored a secondhand Sony Handycam, and have been playing around with capturing life in motion!
+description: I picked up my dad's Canon/Nikon gear as a kid and haven't put a camera down since. In 2024, I restored a secondhand Sony Handycam, and have been playing around with capturing life in motion!
 nav: true
 nav_order: 3
 display_categories: [work, fun]
@@ -17,7 +17,7 @@ horizontal: false
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
+  {% assign categorized_projects = site.clickshack | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
@@ -41,7 +41,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 <div class="motion">
-{% assign sorted_projects = site.projects | sort: "importance" %}
+{% assign sorted_projects = site.clickshack | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 

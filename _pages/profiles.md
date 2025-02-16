@@ -17,13 +17,13 @@ profiles:
       <p>caption</p>
   - align: left
     image: goofycorn.jpg
-    content: background.md
+    content: childhood.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>caption</p>
       - align: left
-  - image: foodie1.jpg
-    content: background.md
+  - image:
+    content: highschool.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>caption</p>

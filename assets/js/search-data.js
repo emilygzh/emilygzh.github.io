@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-about-me",
-          title: "about me",
-          description: "19 years and counting",
+  },{id: "nav-cv",
+          title: "cv",
+          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/aboutme/";
+            window.location.href = "/cv/";
           },
         },{id: "nav-experience",
           title: "experience",
@@ -22,6 +22,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/experience/";
+          },
+        },{id: "nav-about-me",
+          title: "about me",
+          description: "19 years and counting",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/aboutme/";
           },
         },{id: "nav-blog",
           title: "blog",
@@ -36,13 +43,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/clickshack/";
-          },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
           },
         },{id: "post-cyber-9-12-strategy-challenge-in-austin-texas",
       

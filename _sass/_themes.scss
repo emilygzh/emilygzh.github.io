@@ -5,8 +5,7 @@
 @use "sass:color";
 
 :root {
-  --global-bg-color: #{$beige-color};
- // --global-code-bg-color: #{$code-bg-color-light};
+  --global-bg-color: #{$sage-color-light};
   --global-code-bg-color: #{$sage-color-light};
   --global-text-color: #{$orange-color};
   --global-text-color-light: #{$grey-color};
@@ -26,8 +25,8 @@
     #{color.channel($black-color, "blue", $space: rgb)},
     0.4
   );
-  --global-back-to-top-text-color: #{$beige-color};
-  --global-newsletter-bg-color: #{$beige-color};
+  --global-back-to-top-text-color: #{$sage-color-light};
+  --global-newsletter-bg-color: #{$sage-color-light};
   --global-newsletter-text-color: #{$black-color};
 
   --global-tip-block: #42b983;

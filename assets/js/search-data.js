@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-click-shack",
           title: "click shack",
-          description: "Through my lens. I picked up my dad&#39;s Canon/Nikon gear as a kid and haven&#39;t put a camera down since. In 2024, I restored a secondhand Sony Handycam, and have been playing around with capturing life in motion!",
+          description: "I picked up my dad&#39;s Canon/Nikon gear as a kid and haven&#39;t put a camera down since. In 2024, I restored a secondhand Sony Handycam, and have been playing around with capturing life in motion!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/clickshack/";
@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-projects",
-          title: "projects",
+        },{id: "nav-experience",
+          title: "experience",
           description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/experience/";
           },
         },{id: "nav-about-me",
           title: "about me",

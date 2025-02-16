@@ -77,11 +77,11 @@ ninja.data = [{
           window.location.href = "/blog/2023/videos/";
         
       },
-    },{id: "post-a-post-with-images",
+    },{id: "post-cyber-9-12-strategy-challenge-in-austin-texas",
       
-        title: "a post with images",
+        title: "Cyber 9/12 Strategy Challenge in Austin, Texas",
       
-      description: "this is what included images could look like",
+      description: "National Champions!",
       section: "Posts",
       handler: () => {
         

@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-image-galleries",
+        },{id: "post-cyber-9-12-strategy-challenge-in-austin-texas",
+      
+        title: "Cyber 9/12 Strategy Challenge in Austin, Texas",
+      
+      description: "National Champions!",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/cyber/";
+        
+      },
+    },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       

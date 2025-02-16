@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='#'>My name is Emily. Welcome to my page!</a> 
+subtitle: Hi there! My name is Emily. Welcome to my page!
 profile:
   align: right
   image: gardensme.jpg

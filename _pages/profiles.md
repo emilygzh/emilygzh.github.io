@@ -16,7 +16,13 @@ profiles:
     more_info: >
       <p>caption</p>
   - align: left
-    image: prof_pic.jpg
+    image: goofycorn.jpg
+    content: background.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>caption</p>
+      - align: left
+  - image: foodie1.jpg
     content: background.md
     image_circular: false # crops the image to make it circular
     more_info: >

@@ -77,17 +77,6 @@ ninja.data = [{
           window.location.href = "/blog/2023/videos/";
         
       },
-    },{id: "post-cyber-9-12-strategy-challenge-in-austin-texas",
-      
-        title: "Cyber 9/12 Strategy Challenge in Austin, Texas",
-      
-      description: "National Champions!",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/images/";
-        
-      },
     },{id: "news-to-be-completed-stay-tuned",
           title: 'to be completed. stay tuned!',
           description: "",

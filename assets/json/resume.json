@@ -23,25 +23,27 @@
       "position": "Intern",
       "startDate": "2024-06-03",
       "endDate": "2024-12-31",
-      "summary": "Designed Python-based Universal Core Longevity Estimator algorithm for next-gen implantable cardiac devices, reducing development time by 12 months, standardizing cross-device performance, and reducing field error occurrences.", 
-      "summary": "Automated data analysis and visualization of device current testing and documentation, significantly improving process efficiency.",
-      "summary": "Troubleshoot software for automated testing scripts to improve hardware characterization processes."
+      "highlights": ["Designed Python-based Universal Core Longevity Estimator algorithm for next-gen implantable cardiac devices, reducing development time by 12 months, standardizing cross-device performance, and reducing field error occurrences.", 
+      "Automated data analysis and visualization of device current testing and documentation, significantly improving process efficiency.",
+      "Troubleshoot software for automated testing scripts to improve hardware characterization processes."
+    ]
     },
     {
       "name": "Cardiac Rhythm Management, Medtronic",
       "position": "Intern",
       "startDate": "2023-06-07",
       "endDate": "2023-08-16",
-      "summary": "Conducted bench testing and data analysis of Bluetooth field data from Medtronic’s Patient Programmer to profile the noise interference in operating rooms, developed an algorithm to simulate and predict Bluetooth data throughput with Wi-Fi coexistence, to help redefine signal transmission protocol for greater reliability."
+      "highlights": ["Conducted bench testing and data analysis of Bluetooth field data from Medtronic’s Patient Programmer to profile the noise interference in operating rooms, developed an algorithm to simulate and predict Bluetooth data throughput with Wi-Fi coexistence, to help redefine signal transmission protocol for greater reliability."
+    ]
     },
     {
       "name": "Summer Orchestra Program, Mounds View Public Schools",
       "position": "Instructor",
       "startDate": "2021-06",
       "endDate": "2022-08",
-      "summary": "Led private lessons, sectionals, and group lessons for 4th-6th grade students learning violin, viola, cello, and bass.",
-      "highlights": ["Discovered a love for teaching here!"
-      ]
+      "highlights": ["Led private lessons, sectionals, and group lessons for 4th-6th grade students learning violin, viola, cello, and bass."
+      ],
+      "summary": "Led private lessons, sectionals, and group lessons for 4t"
     }
   ],
   "involvement": [

@@ -14,7 +14,7 @@
       "studyType": "Bachelor's",
       "startDate": "2023-08",
       "endDate": "2027-05",
-      "highlights": ["Concentration in Machine Learning",
+      "summary": ["Concentration in Machine Learning",
       "Minor in Political Science"]
     }
   ],
@@ -53,7 +53,8 @@
       "position": "Director",
       "url": "https://femmesplushacks.weebly.com",
       "startDate": "2024-08",
-      "summary": "Coordinate a STEM hackathon for 100+ high school students, teaching Python & AI, data visualization, game development, and cybersecurity workshops, while connecting participants with professionals on careers in tech."
+      "highlights": ["Coordinate a STEM hackathon for 100+ high school students, teaching Python & AI, data visualization, game development, and cybersecurity workshops, while connecting participants with professionals on careers in tech."
+    ]
     },
     {
       "organization": "Duke Conversations",
@@ -61,7 +62,8 @@
       "position": "President",
       "url": "https://dukeconversations.weebly.com",
       "startDate": "2024-05",
-      "summary": "Lead the redesign and strategic expansion of Duke Conversations, advancing our mission to connect faculty and students through weekly intimate dinner discussions with administration and professors."
+      "highlights": ["Lead the redesign and strategic expansion of Duke Conversations, advancing our mission to connect faculty and students through weekly intimate dinner discussions with administration and professors."
+    ]
     }
   ],
   "awards": [
@@ -70,7 +72,8 @@
       "date": "2025-02-02",
       "awarder": "Atlantic Council",
       "url": "https://www.strausscenter.org/events/2025-cyber-9-12-strategy-challenge/",
-      "summary": "Developed and delivered crisis response to cyberattacks jeopardizing U.S. national security and escalating geopolitical tensions"
+      "highlights": ["Developed and delivered crisis response to cyberattacks jeopardizing U.S. national security and escalating geopolitical tensions.",
+      "1 of 24 teams from across the country, including West Point Military Academy, Stanford, Air Command Staff College, etc."]
     }
   ],
   "skills": [

@@ -2,7 +2,7 @@
 layout: page
 title: click shack
 permalink: /clickshack/
-description: I picked up my dad's Canon/Nikon gear as a kid and haven't put a camera down since. In 2024, I restored a secondhand Sony Handycam, and have been playing around with capturing life in motion!
+description: I picked up my dad's Canon/Nikon gear as a kid and have been hitting the shutter since. In 2024, I restored a secondhand Sony Handycam, and have also been playing around with capturing life in motion!
 nav: true
 nav_order: 6
 display_categories: [work, fun]

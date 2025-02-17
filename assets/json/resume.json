@@ -14,7 +14,7 @@
       "studyType": "Bachelor's",
       "startDate": "2023-08",
       "endDate": "2027-05",
-      "courses": ["Concentration in Machine Learning \nMinor in Political Science"]
+      "courses": ["Concentration in Machine Learning Minor in Political Science"]
     }
   ],
   "work": [
@@ -23,7 +23,9 @@
       "position": "Intern",
       "startDate": "2024-06-03",
       "endDate": "2024-12-31",
-      "summary": "Designed Python-based Universal Core Longevity Estimator algorithm for next-gen implantable cardiac devices, reducing development time by 12 months, standardizing cross-device performance, and reducing field error occurrences. \nAutomated data analysis and visualization of device current testing and documentation, significantly improving process efficiency. Troubleshoot software for automated testing scripts to improve hardware characterization processes."
+      "summary": "Designed Python-based Universal Core Longevity Estimator algorithm for next-gen implantable cardiac devices, reducing development time by 12 months, standardizing cross-device performance, and reducing field error occurrences.", 
+      "summary": "Automated data analysis and visualization of device current testing and documentation, significantly improving process efficiency.",
+      "summary": "Troubleshoot software for automated testing scripts to improve hardware characterization processes."
     },
     {
       "name": "Cardiac Rhythm Management, Medtronic",
@@ -60,7 +62,6 @@
       "summary": "Lead the redesign and strategic expansion of Duke Conversations, advancing our mission to connect faculty and students through weekly intimate dinner discussions with administration and professors."
     }
   ],
-
   "awards": [
     {
       "name": "National Champion",

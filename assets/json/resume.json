@@ -3,7 +3,7 @@
     "name": "Emily Zhao",
     "email": "guzhaoemily@gmail.com",
     "phone": "(952) 228-4256",
-    "summary": "I'm passionate about executing cool ideas for a better tomorrow. With a robust technical background and the strong ability to quickly learn and adapt, I have a proven track record in program execution. I excel at transforming ideas into actionable solutions and leading teams to deliver impactful results."
+    "summary": "I'm passionate about executing cool ideas for a better tomorrow. Levereaging a robust technical background, the strong ability to quickly learn and adapt, and a proven track record in program execution-- I excel at transforming ideas into actionable solutions and leading teams to deliver impactful results."
   },
 
   "education": [
@@ -14,7 +14,8 @@
       "studyType": "Bachelor's",
       "startDate": "2023-08",
       "endDate": "2027-05",
-      "courses": ["Concentration in Machine Learning Minor in Political Science"]
+      "courses": ["Concentration in Machine Learning",
+      "Minor in Political Science"]
     }
   ],
   "work": [
@@ -42,11 +43,10 @@
       "startDate": "2021-06",
       "endDate": "2022-08",
       "highlights": ["Led private lessons, sectionals, and group lessons for 4th-6th grade students learning violin, viola, cello, and bass."
-      ],
-      "summary": "Led private lessons, sectionals, and group lessons for 4t"
+      ]
     }
   ],
-  "involvement": [
+  "volunteer": [
     {
       "organization": "Hackathon, Duke FEMMES+",
       "location": "Durham, North Carolina",
@@ -66,17 +66,11 @@
   ],
   "awards": [
     {
-      "name": "National Champion",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "title": "Cyber 9/12 Strategy Challenge National Champion",
+      "date": "2025-02-02",
+      "awarder": "Atlantic Council",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "Develop/deliver crisis response to cyberattacks jeopardizing US national security and escalating geopolitical tensions"
     }
   ],
   "skills": [

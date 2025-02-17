@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-click-shack",
           title: "click shack",
-          description: "I picked up my dad&#39;s Canon/Nikon gear as a kid and have been hitting the shutter since. In 2024, I restored a secondhand Sony Handycam, and have also been playing around with capturing life in motion!",
+          description: "I picked up my dad&#39;s Canon/Nikon gear as a kid and have been hitting the shutter since. In 2024, I restored a secondhand Sony Handycam, and have enjoyed playing around with capturing life in motion!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/clickshack/";

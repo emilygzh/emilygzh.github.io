@@ -5,10 +5,10 @@ Some of my most vivid childhood memories include losing my favorite free notepad
 I also spent a lot of my time making music. 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/pianoyoung.jpg" class="img-fluid rounded z-depth-1"}
+        {% include figure.liquid path="assets/img/pianoyoung.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/celloyoung.jpg" class="img-fluid rounded z-depth-1"}
+        {% include figure.liquid path="assets/img/celloyoung.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -19,10 +19,10 @@ My passion for food started in my youth.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/foodie1.jpg" class="img-fluid rounded z-depth-1"}
+        {% include figure.liquid path="assets/img/foodie1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/foodie2.jpg" class="img-fluid rounded z-depth-1"}
+        {% include figure.liquid path="assets/img/foodie2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

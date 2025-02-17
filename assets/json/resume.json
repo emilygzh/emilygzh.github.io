@@ -3,7 +3,7 @@
     "name": "Emily Zhao",
     "email": "guzhaoemily@gmail.com",
     "phone": "(952) 228-4256",
-    "summary": "I'm passionate about executing cool ideas for a better tomorrow. Levereaging a robust technical background, the strong ability to quickly learn and adapt, and a proven track record in program execution-- I excel at transforming ideas into actionable solutions and leading teams to deliver impactful results."
+    "summary": "I'm passionate about executing cool ideas for a better tomorrow. Leveraging a robust technical background, the strong ability to quickly learn and adapt, and a proven track record in program execution-- I excel at transforming ideas into actionable solutions and leading teams to deliver impactful results."
   },
 
   "education": [
@@ -22,6 +22,7 @@
     {
       "name": "Cardiac Rhythm Management, Medtronic",
       "position": "Intern",
+      "url": "https://emilygzh.github.io/experience/",
       "startDate": "2024-06-03",
       "endDate": "2024-12-31",
       "highlights": ["Designed Python-based Universal Core Longevity Estimator algorithm for next-gen implantable cardiac devices, reducing development time by 12 months, standardizing cross-device performance, and reducing field error occurrences.", 
@@ -32,6 +33,7 @@
     {
       "name": "Cardiac Rhythm Management, Medtronic",
       "position": "Intern",
+      "url": "https://emilygzh.github.io/experience/",
       "startDate": "2023-06-07",
       "endDate": "2023-08-16",
       "highlights": ["Conducted bench testing and data analysis of Bluetooth field data from Medtronic’s Patient Programmer to profile the noise interference in operating rooms, developed an algorithm to simulate and predict Bluetooth data throughput with Wi-Fi coexistence, to help redefine signal transmission protocol for greater reliability."

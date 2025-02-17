@@ -2,7 +2,7 @@
 layout: page
 title: click shack
 permalink: /clickshack/
-description: I picked up my dad's Canon/Nikon gear as a kid and have been hitting the shutter since. In 2024, I restored a secondhand Sony Handycam, and have also been playing around with capturing life in motion!
+description: I picked up my dad's Canon/Nikon gear as a kid and have been hitting the shutter since. In 2024, I restored a secondhand Sony Handycam, and have enjoyed playing around with capturing life in motion!
 nav: true
 nav_order: 6
 display_categories: [work, fun]
@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 <!-- pages/clickshack.md -->
-<div class="stills">
+<div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
@@ -40,7 +40,7 @@ horizontal: false
 {% else %}
 
 <!-- Display projects without categories -->
-<div class="motion">
+
 {% assign sorted_projects = site.projects | sort: "importance" %}
 
   <!-- Generate cards for each project -->

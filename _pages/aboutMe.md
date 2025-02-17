@@ -1,3 +1,6 @@
 Hi there, I’m Emily! 
 
-I’m the sum of a lot of different experiences—- childhood, high school, and everything I’m learning now. I’m still figuring things out, but I’m constantly adding new pieces to the puzzle. Scroll and get to know me a bit!
+I'm passionate about STEM outreach, sparking meaningful conversation, and chasing opportunities that interest me. 
+In my free time, I enjoy playing the cello and piano, trying new restaurants, learning about dinosaurs and rocks, sewing, reading, running, and exploring the outdoors with my camera. 
+
+Scroll to get to know me through my life before college! 

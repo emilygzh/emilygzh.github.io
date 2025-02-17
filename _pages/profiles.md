@@ -14,17 +14,16 @@ profiles:
     content: aboutMe.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>caption</p>
+
   - align: left
     image: goofycorn.jpg
     content: childhood.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>caption</p>
-      - align: left
+      <p>Childhood</p>
   - image:
     content: highschool.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>caption</p>
+      <p>High School</p>
 ---

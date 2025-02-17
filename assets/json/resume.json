@@ -3,7 +3,7 @@
     "name": "Emily Zhao",
     "email": "guzhaoemily@gmail.com",
     "phone": "(952) 228-4256",
-    "summary": "I'm passionate about executing cool ideas for a better tomorrow. Leveraging a robust technical background, the strong ability to quickly learn and adapt, and a proven track record in program execution-- I excel at transforming ideas into actionable solutions and leading teams to deliver impactful results."
+    "summary": "I'm excited by executing cool ideas for a better tomorrow. Leveraging a robust technical background, the strong ability to quickly learn and adapt, and a proven track record in program execution-- I excel at transforming ideas into actionable solutions and leading teams to deliver impactful results."
   },
 
   "education": [
@@ -74,8 +74,7 @@
       "date": "2025-02-02",
       "awarder": "Atlantic Council",
       "url": "https://www.strausscenter.org/events/2025-cyber-9-12-strategy-challenge/",
-      "highlights": ["Developed and delivered crisis response to cyberattacks jeopardizing U.S. national security and escalating geopolitical tensions.",
-      "1 of 24 teams from across the country, including West Point Military Academy, Stanford, Air Command Staff College, etc."]
+      "summary": "1 of 24 teams from across the country, including West Point Military Academy, Stanford, Air Command Staff College, etc."
     }
   ],
   "skills": [

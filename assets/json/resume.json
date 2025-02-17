@@ -14,7 +14,7 @@
       "studyType": "Bachelor's",
       "startDate": "2023-08",
       "endDate": "2027-05",
-      "courses": ["Concentration in Machine Learning",
+      "highlights": ["Concentration in Machine Learning",
       "Minor in Political Science"]
     }
   ],
@@ -69,12 +69,11 @@
       "title": "Cyber 9/12 Strategy Challenge National Champion",
       "date": "2025-02-02",
       "awarder": "Atlantic Council",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "Develop/deliver crisis response to cyberattacks jeopardizing US national security and escalating geopolitical tensions"
+      "url": "https://www.strausscenter.org/events/2025-cyber-9-12-strategy-challenge/",
+      "summary": "Developed and delivered crisis response to cyberattacks jeopardizing U.S. national security and escalating geopolitical tensions"
     }
   ],
   "skills": [
-
     {
       "name": "Languages",
       "icon": "fa-solid fa-hashtag",

@@ -55,6 +55,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/cyber/";
         
       },
+    },{id: "post-packing-with-purpose-engineers-bunnies-and-meals",
+      
+        title: "Packing With Purpose- Engineers, Bunnies, and Meals",
+      
+      description: "Pancake Packing Bunnies at Medtronic",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/pancakebunnies/";
+        
+      },
     },{id: "post-gtcys-spring-festival-2023",
       
         title: "GTCYS Spring Festival 2023",

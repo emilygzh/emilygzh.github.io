@@ -8,7 +8,7 @@ nav_order: 6
 display_categories: [work, fun]
 horizontal: false
 ---
-
+to be completed!
 <!-- pages/clickshack.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}

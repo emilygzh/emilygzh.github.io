@@ -13,7 +13,7 @@ I also spent a lot of my time making music.
     Music has been apart of my life for a while.
 </div>
 
-My passion for food started in my youth. I still love exploring restaurants-- find me onn [Beli](https://beliapp.co/app/emgzh)!
+My passion for food started in my youth. I still love exploring restaurants-- find me on [Beli](https://beliapp.co/app/emgzh)!
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

@@ -1,30 +1,33 @@
 ---
-layout: home
-title: home
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+layout: profiles
+permalink: /about/
+title: about me
+description: nice to meet you!
+nav: true
+nav_order: 1
 
-profile:
-  align: right
-  image: me.jpg
-  image_circular: true # crops the image to make it circular
-  more_info: >
-    
-
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+profiles:
+  # if you want to include more than one profile, just replicate the following block
+  # and create one content file for each profile inside _pages/
+  - align: right
+    image: prof_pic.jpg
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+  - align: left
+    image: prof_pic.jpg
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+  - align: left
+    image: prof_pic.jpg
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      
 ---
-
-Born in Atlanta and raised just outside the Twin Cities, I'm now in Durham at Duke University, where I'm pursuing a double major in Electrical/Computer Engineering and Computer Science, along with a minor in Political Science.
-
-Striving to create a vivid, curious, and impactful life. Learn about my [technical experiences](https://emilygzh.github.io/experience/), [hobbies](https://emilygzh.github.io/clickshack/), and [what I'm up to](https://emilygzh.github.io/blog/) in the upper right menu!

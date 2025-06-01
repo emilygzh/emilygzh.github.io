@@ -19,12 +19,12 @@ profiles:
       <p>Your City, State 12345</p>
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: childhood.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
-  - align: left
-    image: prof_pic.jpg
+  - align: right
+    image: highschool.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >

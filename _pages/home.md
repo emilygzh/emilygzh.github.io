@@ -27,4 +27,4 @@ latest_posts:
 
 Born in Atlanta and raised just outside the Twin Cities, I'm now in Durham at Duke University, where I'm pursuing a double major in Electrical/Computer Engineering and Computer Science, along with a minor in Political Science.
 
-Striving to create a vivid, curious, and impactful life. Learn about my [technical experiences](https://emilygzh.github.io/experience/), [hobbies](https://emilygzh.github.io/clickshack/), and [what I'm up to](https://emilygzh.github.io/blog/) in the upper right menu!
+Striving to create a vivid, curious, and impactful life. Learn about my [technical experiences](https://emilygzh.github.io/cv/), [hobbies](https://emilygzh.github.io/clickshack/), and [what I'm up to](https://emilygzh.github.io/blog/) in the upper right menu!

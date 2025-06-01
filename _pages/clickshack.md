@@ -2,10 +2,10 @@
 layout: page
 title: clickshack
 permalink: /clickshack/
-description: A growing collection of your cool projects.
+description: adventures captured on camera
 nav: true
 nav_order: 5
-display_categories: [work, fun]
+display_categories:
 horizontal: false
 ---
 

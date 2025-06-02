@@ -26,7 +26,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: 
   - align: left
-    image: headshot.jpeg
+    image: headshot.JPEG
     content: college.md
     image_circular: false
     more_info:

@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-nice-to-meet-you",
-          title: "nice to meet you!",
+  },{id: "nav-about-me",
+          title: "about me",
           description: ":)",
           section: "Navigation",
           handler: () => {
@@ -84,11 +84,66 @@ ninja.data = [{
             window.location.href = "/blog/2023/gtcys/";
           
         },
-      },{id: "books-the-godfather",
+      },{id: "books-the-48-laws-of-power",
+          title: 'The 48 Laws of Power',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/48laws/";
+            },},{id: "books-all-the-lovers-in-the-night",
+          title: 'All the Lovers in the Night',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/alltheloversinthenight/";
+            },},{id: "books-every-good-boy-does-fine",
+          title: 'Every Good Boy Does Fine',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/everygoodboy/";
+            },},{id: "books-forging-wargamers",
+          title: 'Forging Wargamers',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/forgingwargamers/";
+            },},{id: "books-",
+          title: '',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/godelesecherbach/";
+            },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/manssearchformeaning/";
+            },},{id: "books-pride-and-prejudice",
+          title: 'Pride and Prejudice',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/prideandprejudice/";
+            },},{id: "books-the-godfather",
+          title: 'The Godfather',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/principles/";
+            },},{id: "books-the-admirals",
+          title: 'The Admirals',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/theadmirals/";
+            },},{id: "books-the-sun-also-rises",
+          title: 'The Sun Also Rises',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/thesunalsorises/";
+            },},{id: "books-when-breath-becomes-air",
+          title: 'When Breath Becomes Air',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/whenbreathbecomesair/";
+            },},{id: "books-zero-to-one",
+          title: 'Zero to One',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/zerotoone/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",

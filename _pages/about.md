@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /about/
-title: nice to meet you!
+title: about me
 description: :)
 nav: true
 nav_order: 1

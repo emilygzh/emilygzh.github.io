@@ -2,31 +2,24 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Emily Zhao
     - name: Languages
-      value: English, German
+      value: English, Mandarin
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B.S.E. in ECE/CS
+      institution: Pratt School of Engineering at Duke University
+      year: 08/2023-05/2027
       description:
-        - Description 1.
-        - Description 2.
+        - Double majoring in Electrical and Computer Engineering and Computer Science
+        - Minor in Political Science
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            
 
 - title: Experience
   type: time_table

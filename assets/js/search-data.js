@@ -81,6 +81,17 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
+            window.location.href = "/blog/2023/femmeshacks/";
+          
+        },
+      },{id: "post-gtcys-spring-festival-2023",
+        
+          title: "GTCYS Spring Festival 2023",
+        
+        description: "An end to my time with GTCYS.",
+        section: "Posts",
+        handler: () => {
+          
             window.location.href = "/blog/2023/gtcys/";
           
         },
@@ -109,8 +120,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/godelesecherbach/";
-            },},{id: "books-the-godfather",
-          title: 'The Godfather',
+            },},{id: "books-man-39-s-search-for-meaning",
+          title: 'Man&amp;#39;s Search for Meaning',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/manssearchformeaning/";
@@ -119,8 +130,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/prideandprejudice/";
-            },},{id: "books-the-godfather",
-          title: 'The Godfather',
+            },},{id: "books-principles",
+          title: 'Principles',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/principles/";

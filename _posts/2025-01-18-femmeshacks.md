@@ -17,36 +17,15 @@ thumbnail: assets/img/femmesvolunteers.jpg
 </div> 
 FEMMES+ (Females and Allies Excelling More in Math, Engineering, and Science) is an incredible program. We're comprised of many student volunteers at Duke, and reach hundreds of youth in our local community. 
 
-This past year, I had the privilige of serving as co-director for our Hackathon program! 
+This past year, I had the privilige of serving as co-director for our Hackathon program. Our program grew twice in size (our biggest ever cohort!), we launched new tracks, and piloted small-group industry/academia mentorship groups. Check out photos from the day [here](https://photos.app.goo.gl/EJw16oSibcVaJYeCA)! 
 
-This year, our program grew twice in size (our biggest ever cohort!), we launched new tracks, and piloted small-group industry/academia mentorship groups. 
+Onto the 8th!
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/gtcysspeech.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/gtcysmegen.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gtcysitaly.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/femmesvolunteers.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    GTCYS friends & Maestro in Italy.  
+    Hacks 2025 Exec Team & Volunteers
 </div>
-
-
-<!-- <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true %}
-    </div>
-</div>
-<div class="caption">
-    A simple, elegant caption looks good between video rows, after each row, or doesn't have to be there at all.
-</div> -->

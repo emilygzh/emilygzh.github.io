@@ -12,6 +12,6 @@ started: 2018
 finished: 2018
 stars: 5
 goodreads_review: 
-status: 
+status: finished
 ---
 forever a classic

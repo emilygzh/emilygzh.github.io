@@ -1,0 +1,60 @@
+---
+layout: post
+title: GTCYS Spring Festival 2023
+date: 2023-05-12 23:52:00
+description: An end to my time with GTCYS.  
+tags: 
+categories: 
+thumbnail: assets/img/gtcysspeech.jpg
+---
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/gtcysspringfestival23.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    GTCYS Symphony, 2023.  
+</div>
+I joined Greater Twin Cities Youth Symphonies (GTCYS) as a 5th grader, and returned in my junior year of high school. 
+
+I owe my love for music to GTCYS-- an appreciation I gained through the rigorous repertoire we performed and the countless opportunities the program offered. We filmed a [music video](https://www.youtube.com/watch?v=kpaPf7izQds) with Phil Thompson, [toured Italy](https://www.youtube.com/watch?v=rAKY2f4N8nY), and rehearsed weekly in Orchestra Hall. I grew as a musician, a student, an individual, and found a family I will forever cherish. 
+
+For my last concert as a GTCYS musician, I had the opportunity to open as a student speaker. I speak at 00:00:49, and my orchestra performs at 01:15:30. 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/gifH2niR2us?si=zt7heq-DP1gRdE37&amp;controls=0&amp;start=49" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+I wouldn't trade my time with this program for the world. Thank you, GTCYS.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/gtcysspeech.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/gtcysmegen.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/gtcysitaly.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    GTCYS friends & Maestro in Italy.  
+</div>
+
+
+<!-- <div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+</div>
+<div class="caption">
+    A simple, elegant caption looks good between video rows, after each row, or doesn't have to be there at all.
+</div> -->

@@ -1,33 +1,25 @@
 ---
 layout: post
-title: GTCYS Spring Festival 2023
-date: 2023-05-12 23:52:00
-description: An end to my time with GTCYS.  
+title: FEMMES+ Hacks 2025
+date: 2025-01-18 21:16:00
+description: 7th Annual FEMMES+ Hacks, and end to my time as co-director!   
 tags: 
 categories: 
-thumbnail: assets/img/gtcysspeech.jpg
+thumbnail: assets/img/femmesvolunteers.jpg
 ---
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gtcysspringfestival23.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/hacks2025.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    GTCYS Symphony, 2023.  
-</div>
-I joined Greater Twin Cities Youth Symphonies (GTCYS) as a 5th grader, and returned in my junior year of high school. 
+    FEMMES+ Hacks students and volunteers, 2025
+</div> 
+FEMMES+ (Females and Allies Excelling More in Math, Engineering, and Science) is an incredible program. We're comprised of many student volunteers at Duke, and reach hundreds of youth in our local community. 
 
-I owe my love for music to GTCYS-- an appreciation I gained through the rigorous repertoire we performed and the countless opportunities the program offered. We filmed a [music video](https://www.youtube.com/watch?v=kpaPf7izQds) with Phil Thompson, [toured Italy](https://www.youtube.com/watch?v=rAKY2f4N8nY), and rehearsed weekly in Orchestra Hall. I grew as a musician, a student, an individual, and found a family I will forever cherish. 
+This past year, I had the privilige of serving as co-director for our Hackathon program! 
 
-For my last concert as a GTCYS musician, I had the opportunity to open as a student speaker. I speak at 00:00:49, and my orchestra performs at 01:15:30. 
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/gifH2niR2us?si=zt7heq-DP1gRdE37&amp;controls=0&amp;start=49" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-I wouldn't trade my time with this program for the world. Thank you, GTCYS.
+This year, our program grew twice in size (our biggest ever cohort!), we launched new tracks, and piloted small-group industry/academia mentorship groups. 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

@@ -105,18 +105,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/alltheloversinthenight/";
-            },},{id: "books-",
-          title: '',
+            },},{id: "books-every-good-boy-does-fine",
+          title: 'Every Good Boy Does Fine',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/everygoodboy/";
-            },},{id: "books-",
-          title: '',
+            },},{id: "books-forging-wargamers",
+          title: 'Forging Wargamers',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/forgingwargamers/";
-            },},{id: "books-",
-          title: '',
+            },},{id: "books-gödel-escher-bach",
+          title: 'Gödel, Escher, Bach',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/godelesecherbach/";
@@ -140,8 +140,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/principles/";
-            },},{id: "books-",
-          title: '',
+            },},{id: "books-the-admirals",
+          title: 'The Admirals',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/theadmirals/";

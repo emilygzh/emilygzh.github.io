@@ -1,8 +1,8 @@
 ---
 layout: book-review
-title: Every Good Boy Does Fine
+title: Every Good Boy Does Fine: A Love Story, in Music Lessons
 author: Jeremy Denk
-olid: OL26402417M
+olid: OL34182849M
 isbn: 9780812995985
 released: 2022-03-22
 categories: 

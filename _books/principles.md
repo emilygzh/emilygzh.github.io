@@ -10,7 +10,6 @@ tags:
 buy_link: 
 started: 
 finished: 
-stars: 
-goodreads_review: 
-status: To Read
+stars: Queued
+#book status: abandoned,finished,interested,paused,queued,reading,reread
 ---

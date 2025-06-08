@@ -14,4 +14,5 @@ released: 2022
 stars: 
 goodreads_review: 
 status: Finished
+#book status: abandoned,finished,interested,paused,queued,reading,reread
 ---

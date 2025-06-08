@@ -13,5 +13,6 @@ finished: 2018
 stars: 5
 goodreads_review: 
 status: Finished
+#book status: abandoned,finished,interested,paused,queued,reading,reread
 ---
 forever a classic

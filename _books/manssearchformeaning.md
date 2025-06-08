@@ -13,4 +13,5 @@ finished: 2023
 stars: 
 goodreads_review: 
 status: Finished
+#book status: abandoned,finished,interested,paused,queued,reading,reread
 ---

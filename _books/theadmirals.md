@@ -12,5 +12,6 @@ started:
 finished: 
 stars: 
 goodreads_review: 
-status: To Read
+status: Interested
+#book status: abandoned,finished,interested,paused,queued,reading,reread
 ---

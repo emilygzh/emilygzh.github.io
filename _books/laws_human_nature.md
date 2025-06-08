@@ -13,5 +13,6 @@ finished:
 released: 1998
 stars: 
 goodreads_review: 
-status: Reading
+status: Paused
+#book status: abandoned,finished,interested,paused,queued,reading,reread
 ---

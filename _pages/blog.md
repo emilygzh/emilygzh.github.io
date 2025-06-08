@@ -15,10 +15,10 @@ pagination:
     before: 1 # The number of links before the current page
     after: 3 # The number of links after the current page
 ---
-.tag-category-list,
+<!-- .tag-category-list,
 .post-tags {
   display: none !important;
-}
+} -->
 
 
 <div class="post">

@@ -19,7 +19,7 @@ FEMMES+ (Females and Allies Excelling More in Math, Engineering, and Science) is
 
 This past year, I had the privilige of serving as co-director for our Hackathon program. Our program grew twice in size (our biggest ever cohort!), we launched new tracks, and piloted small-group industry/academia mentorship groups. Check out photos from the day [here](https://photos.app.goo.gl/EJw16oSibcVaJYeCA)! 
 
-Onto the 8th!
+Onto the 8th ~
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

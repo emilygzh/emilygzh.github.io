@@ -28,11 +28,11 @@
     },
     {
       "name": "Cardiac Rhythm Management, Medtronic",
-      "position": "Software Engineering Intern",
+      "position": "Product Engineering Intern",
       "url": "https://emilygzh.github.io/experience/",
       "startDate": "2024-06-03",
       "endDate": "2024-12-31",
-      "highlights": ["Python-based universal core Longevity Estimator algorithm for next-gen implantable cardiac devices to reduce development time by 12 months and standardize cross-device performance",
+      "highlights": ["Universal core Longevity Estimator algorithm (Python) for next-gen implantable cardiac devices to reduce development time by 12 months and standardize cross-device performance",
                     "Troubleshot automated testing scripts to improve hardware characterization processes with IC Design and Firmware"
 
     ]

@@ -5,8 +5,6 @@ author: Jane Austen
 olid: OL50424069M
 isbn: 
 released: 1813-01-28
-categories: 
-tags: 
 buy_link: 
 started: 2018
 finished: 2018

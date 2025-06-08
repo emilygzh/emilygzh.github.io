@@ -5,8 +5,6 @@ author: Robert Greene
 # cover: assets/img/book_covers/48_laws_of_power.jpg
 olid: OL26974419M
 isbn: 
-categories: 
-tags: 
 buy_link: https://www.amazon.com/Laws-Human-Nature-Robert-Greene/dp/014311137X/ref=tmm_pap_swatch_0
 started: 2025
 finished: 

@@ -5,8 +5,6 @@ author: Ernest Hemingway
 olid: OL37049727M
 isbn: 9781501160622
 released: 1926-10-22
-categories: 
-tags: 
 buy_link: 
 started: 2022
 finished: 2022

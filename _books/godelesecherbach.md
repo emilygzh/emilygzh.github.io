@@ -5,8 +5,6 @@ author: Douglas R. Hofstadter
 olid: OL4097086M
 isbn: 0394745027
 released: 1980
-categories: 
-tags: 
 buy_link: 
 started: 
 finished: 

@@ -6,8 +6,6 @@ cover: assets/img/book_covers/forging_wargamers.jpeg
 olid: OL38498322M
 isbn: 9798985340334
 released: 2022
-categories: 
-tags: 
 buy_link: 
 started: 
 finished: 

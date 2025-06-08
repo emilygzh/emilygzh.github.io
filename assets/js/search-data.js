@@ -105,8 +105,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/alltheloversinthenight/";
-            },},{id: "books-every-good-boy-does-fine",
-          title: 'Every Good Boy Does Fine',
+            },},{id: "books-",
+          title: '',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/everygoodboy/";

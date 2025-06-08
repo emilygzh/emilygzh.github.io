@@ -28,5 +28,5 @@ I'm currently studying engineering at Duke-- still spirited with my passions and
     </div>
 </div>
 <div class="caption">
-    FEMMES+ Hacks volunteer team, Chicago Trading Company visit, Duke Symphony Orchestra
+    FEMMES+ exec, Chicago Trading Company visit, Duke Symphony Orchestra
 </div>

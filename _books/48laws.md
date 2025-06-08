@@ -10,5 +10,5 @@ finished:
 released: 1998
 stars: 
 goodreads_review: 
-status: To Read
+status: Interested
 ---

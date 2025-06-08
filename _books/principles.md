@@ -2,8 +2,8 @@
 layout: book-review
 title: Principles
 author: Ray Dalio
-olid: OL4097086M
-isbn: 9781501124020
+olid: OL29763513M
+isbn: 9781501124051
 released: 2017-09-19
 categories: 
 tags: 

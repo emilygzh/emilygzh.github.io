@@ -2,8 +2,8 @@
 layout: book-review
 title: The Sun Also Rises
 author: Ernest Hemingway
-olid: OL4097086M
-isbn: 9780684830513
+olid: OL37049727M
+isbn: 9781501160622
 released: 1926-10-22
 categories: 
 tags: 

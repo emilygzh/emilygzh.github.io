@@ -2,7 +2,6 @@
 layout: book-review
 title: The 48 Laws of Power
 author: Robert Greene
-cover: assets/img/book_covers/48_laws_of_power.jpg
 olid: OL25418275M
 isbn: 
 categories: 

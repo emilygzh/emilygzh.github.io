@@ -2,11 +2,11 @@
 layout: page
 permalink: /projects/
 title: projects
-description: coming soon! 
+description: under construction!
 nav: true
 nav_order: 2
 ---
-<!-- 
+
 {% if site.data.repositories.github_users %}
 
 ## GitHub users
@@ -44,4 +44,4 @@ nav_order: 2
     {% include repository/repo.liquid repository=repo %}
   {% endfor %}
 </div>
-{% endif %} -->
+{% endif %}

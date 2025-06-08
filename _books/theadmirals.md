@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: The Admirals: The Five-Star Admirals Who Won the War at Sea
+title: The Admirals
 author: Walter R. Borneman
 olid: OL26753004M
 isbn: 9780316097833

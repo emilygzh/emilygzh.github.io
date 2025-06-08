@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: Forging Wargamers: A Framework for Wargaming Education
+title: Forging Wargamers
 author: Sebastian J. Bae
 cover: assets/img/book_covers/forging_wargamers.jpeg
 olid: OL38498322M

@@ -2,7 +2,7 @@
 layout: book-review
 title: The Laws of Human Nature
 author: Robert Greene
-cover: assets/img/book_covers/48_laws_of_power.jpg
+# cover: assets/img/book_covers/48_laws_of_power.jpg
 olid: OL26974419M
 isbn: 
 categories: 

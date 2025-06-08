@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: Gödel, Escher, Bach: An Eternal Golden Braid
+title: Gödel, Escher, Bach
 author: Douglas R. Hofstadter
 olid: OL4097086M
 isbn: 0394745027

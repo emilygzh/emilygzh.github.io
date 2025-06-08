@@ -8,6 +8,6 @@ released: 2017-09-19
 buy_link: 
 started: 
 finished: 
-stars: Queued
+stars: queued
 #book status: abandoned,finished,interested,paused,queued,reading,reread
 ---

@@ -12,5 +12,5 @@ started: 2023
 finished: 2023
 stars: 
 goodreads_review: 
-status: finished
+status: Finished
 ---

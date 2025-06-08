@@ -2,7 +2,7 @@
 layout: book-review
 title: Zero to One
 author: Peter Thiel
-olid: OL4097086M
+olid: OL26498045M
 isbn: 9780804139298
 released: 2014-09-16
 categories: 
@@ -12,5 +12,5 @@ started:
 finished: 
 stars: 
 goodreads_review: 
-status: want to read
+status: To Read
 ---

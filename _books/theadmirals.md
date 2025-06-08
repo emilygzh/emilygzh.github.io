@@ -12,5 +12,5 @@ started:
 finished: 
 stars: 
 goodreads_review: 
-status: want to read
+status: To Read
 ---

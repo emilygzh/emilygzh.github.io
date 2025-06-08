@@ -12,5 +12,5 @@ started: 2025
 finished: 
 stars: 
 goodreads_review: 
-status: started
+status: Reading
 ---

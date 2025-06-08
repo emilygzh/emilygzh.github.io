@@ -12,5 +12,5 @@ started:
 finished: 
 stars: 
 goodreads_review: 
-status: 
+status: Finished
 ---

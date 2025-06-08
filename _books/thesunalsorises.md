@@ -12,6 +12,6 @@ started: 2022
 finished: 2022
 stars: 5
 goodreads_review: 
-status: 
+status: Finished
 ---
 one of my favorites of all time. 

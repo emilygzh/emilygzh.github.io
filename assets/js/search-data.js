@@ -110,8 +110,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/everygoodboy/";
-            },},{id: "books-forging-wargamers",
-          title: 'Forging Wargamers',
+            },},{id: "books-",
+          title: '',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/forgingwargamers/";
@@ -140,8 +140,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/principles/";
-            },},{id: "books-the-admirals",
-          title: 'The Admirals',
+            },},{id: "books-",
+          title: '',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/theadmirals/";

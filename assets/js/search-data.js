@@ -88,7 +88,7 @@ ninja.data = [{
         
           title: "GTCYS Spring Festival 2023",
         
-        description: "An end to my time with GTCYS.",
+        description: "A farewell",
         section: "Posts",
         handler: () => {
           

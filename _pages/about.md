@@ -2,9 +2,9 @@
 layout: profiles
 permalink: /about/
 title: about me
-description: :)
+description:
 nav: true
-nav_order: 1
+nav_order: 6
 
 profiles:
   # if you want to include more than one profile, just replicate the following block

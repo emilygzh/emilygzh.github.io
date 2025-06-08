@@ -4,7 +4,7 @@ title: clickshack
 permalink: /clickshack/
 description: adventures captured on camera- coming soon!
 nav: true
-nav_order: 5
+nav_order: 4
 display_categories:
 horizontal: false
 ---

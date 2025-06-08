@@ -1,9 +1,7 @@
 {
   "basics": {
     "name": "Emily Zhao",
-    "email": "guzhaoemily@gmail.com",
-    "phone": "(952) 228-4256",
-    "summary": "I'm excited by executing cool ideas for a better tomorrow."
+    "email": "guzhaoemily@gmail.com"
   },
   "education": [
     {
@@ -13,13 +11,14 @@
       "studyType": "B.S.E.: Electrical & Computer Engineering, B.S.: Computer Science",
       "startDate": "2023-08",
       "endDate": "2027-05",
-      "courses": ["Minor in Political Science"]
+      "courses": []
     }
   ],
   "work": [
     {
       "name": "Athena AI Institute, NSF REU",
       "position": "Machine Learning Intern",
+      "location": "Durham, North Carolina",
       "url": "https://emilygzh.github.io/experience/",
       "startDate": "2025-05-19",
       "highlights": ["NIH milestone project: developing a RL based hierarchical controller for adaptive DBS",
@@ -29,6 +28,7 @@
     {
       "name": "Cardiac Rhythm Management, Medtronic",
       "position": "Product Engineering Intern",
+      "location": "Mounds View, Minnesota",
       "url": "https://emilygzh.github.io/experience/",
       "startDate": "2024-06-03",
       "endDate": "2024-12-31",
@@ -40,6 +40,7 @@
     {
       "name": "Cardiac Rhythm Management, Medtronic",
       "position": "Hardware Product Engineering Intern",
+      "location": "Mounds View, Minnesota",
       "url": "https://emilygzh.github.io/experience/",
       "startDate": "2023-06-07",
       "endDate": "2023-08-16",
@@ -83,7 +84,7 @@
       "date": "2025-02-02",
       "awarder": "Atlantic Council",
       "url": "https://www.strausscenter.org/events/2025-cyber-9-12-strategy-challenge/",
-      "summary": "1st of 24 teams from across the country, including West Point Military Academy, Stanford, Air Command and Staff College, etc."
+      "summary": ["Crafted/defended policy briefs on cyber threats, national security, and geopolitical escalations in a fast-paced crisis simulation", "1st at Cyber 9/12 Austin 2025, will be attending Black Hat USA 2025!"]
     }
   ],
   
@@ -107,7 +108,6 @@
         "Software Development",
         "Machine Learning",
         "Product Management",
-        "eVTOL",
         "National Security"
       ]
     }

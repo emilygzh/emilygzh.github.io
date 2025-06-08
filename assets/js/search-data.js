@@ -66,7 +66,7 @@ ninja.data = [{
         
           title: "FEMMES+ Hacks 2025",
         
-        description: "7th Annual FEMMES+ Hacks, and end to my time as co-director!",
+        description: "7th Annual FEMMES+ Hacks, and an end to my time as co-director",
         section: "Posts",
         handler: () => {
           

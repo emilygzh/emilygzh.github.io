@@ -21,7 +21,7 @@
       "location": "Durham, North Carolina",
       "url": "https://emilygzh.github.io/experience/",
       "startDate": "2025-05-19",
-      "highlights": ["NIH milestone project: developing a RL based hierarchical controller for adaptive DBS",
+      "highlights": ["NIH milestone: developing a RL based hierarchical controller for adaptive DBS",
       "Under the guidance of Visrut Sudhakar and Dr. Miroslav Pajic"
     ]
     },
@@ -51,6 +51,7 @@
     {
       "name": "Summer Orchestra Program, Mounds View Public Schools",
       "position": "Instructor",
+      "location": "Mounds View, Minnesota",
       "startDate": "2021-06",
       "endDate": "2022-08",
       "highlights": ["Led private lessons, sectionals, and group lessons for 4th-6th grade students learning violin, viola, cello, and bass"
@@ -84,7 +85,7 @@
       "date": "2025-02-02",
       "awarder": "Atlantic Council",
       "url": "https://www.strausscenter.org/events/2025-cyber-9-12-strategy-challenge/",
-      "summary": ["Crafted/defended policy briefs on cyber threats, national security, and geopolitical escalations in a fast-paced crisis simulation", "1st at Cyber 9/12 Austin 2025, will be attending Black Hat USA 2025!"]
+      "summary": ["Crafted/defended policy briefs on cyber threats, national security, and geopolitical escalations in a fast-paced crisis simulation. ", "1st at Cyber 9/12 Austin 2025, will be attending Black Hat USA 2025!"]
     }
   ],
   

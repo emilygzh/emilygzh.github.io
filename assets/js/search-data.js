@@ -120,6 +120,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/godelesecherbach/";
+            },},{id: "books-the-laws-of-human-nature",
+          title: 'The Laws of Human Nature',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/laws_human_nature/";
             },},{id: "books-man-39-s-search-for-meaning",
           title: 'Man&amp;#39;s Search for Meaning',
           description: "",

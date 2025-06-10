@@ -160,6 +160,51 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/zerotoone/";
+            },},{id: "crabby-project-1",
+          title: 'project 1',
+          description: "with background image",
+          section: "Crabby",handler: () => {
+              window.location.href = "/crabby/1_crabby/";
+            },},{id: "crabby-project-2",
+          title: 'project 2',
+          description: "a project with a background image and giscus comments",
+          section: "Crabby",handler: () => {
+              window.location.href = "/crabby/2_project/";
+            },},{id: "crabby-project-3-with-very-long-name",
+          title: 'project 3 with very long name',
+          description: "a project that redirects to another website",
+          section: "Crabby",handler: () => {
+              window.location.href = "/crabby/3_project/";
+            },},{id: "crabby-project-4",
+          title: 'project 4',
+          description: "another without an image",
+          section: "Crabby",handler: () => {
+              window.location.href = "/crabby/4_project/";
+            },},{id: "crabby-project-5",
+          title: 'project 5',
+          description: "a project with a background image",
+          section: "Crabby",handler: () => {
+              window.location.href = "/crabby/5_project/";
+            },},{id: "crabby-project-6",
+          title: 'project 6',
+          description: "a project with no image",
+          section: "Crabby",handler: () => {
+              window.location.href = "/crabby/6_project/";
+            },},{id: "crabby-project-7",
+          title: 'project 7',
+          description: "with background image",
+          section: "Crabby",handler: () => {
+              window.location.href = "/crabby/7_project/";
+            },},{id: "crabby-project-8",
+          title: 'project 8',
+          description: "an other project with a background image and giscus comments",
+          section: "Crabby",handler: () => {
+              window.location.href = "/crabby/8_project/";
+            },},{id: "crabby-project-9",
+          title: 'project 9',
+          description: "another project with an image 🎉",
+          section: "Crabby",handler: () => {
+              window.location.href = "/crabby/9_project/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",

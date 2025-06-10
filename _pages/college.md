@@ -8,7 +8,7 @@ I'm currently studying engineering at Duke-- still spirited with my passions and
         {% include figure.liquid path="assets/img/dtech.png" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cybernationalchamps.jpeg" class="img-fluid rounded z-depth-1" zoomable=false %}
+        {% include figure.liquid path="assets/img/cyberdukepolicy.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
 </div>
 <div class="caption">

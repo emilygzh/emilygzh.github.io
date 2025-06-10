@@ -41,7 +41,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.crabby | sort: "importance" %}
+{% assign sorted_projects = site.clickshack | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 

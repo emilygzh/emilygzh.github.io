@@ -133,7 +133,8 @@
     {
       "name": "Firearm Identification Model & Alert System",
       "summary": "Roboflow, Python",
-      "startDate": "2022"
+      "startDate": "2022",
+      "endDate": "2022"
     }
   ]
 }

@@ -149,8 +149,6 @@ collections:
     output: true
   projects:
     output: true
-  crabby:
-    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

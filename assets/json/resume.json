@@ -106,7 +106,7 @@
       "name": "General",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Software Development",
+        "Software Engineering",
         "Machine Learning",
         "Product Management",
         "National Security"
@@ -129,6 +129,11 @@
       "name": "Sew Queue",
       "summary": "Full stack.",
       "startDate": "2025"
+    }, 
+    {
+      "name": "Firearm Identification Model & Alert System",
+      "summary": "Roboflow, Python",
+      "startDate": "2022"
     }
   ]
 }

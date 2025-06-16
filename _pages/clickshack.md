@@ -18,6 +18,8 @@ The images in this post are all zoomable, arranged into different mini-galleries
 
 ## [Black Hills, May 2025](https://lokeshdhakar.com/projects/lightbox2/)
 
+<a href="/assets/img/sims.jpg" data-lightbox="black-hills">
+  <img src="/assets/img/sims.jpg" alt="Black Hills view" /></a>
 <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" /></a>
 <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" /></a>
 <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" /></a>

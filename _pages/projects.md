@@ -15,7 +15,7 @@ profiles:
     more_info: >
 
   - align: left
-    image: pomodoro.png
+    image: Pomodoro.png
     content: project_pomodoro.md
     image_circular: false # crops the image to make it circular
     more_info:  
@@ -29,6 +29,5 @@ profiles:
     content: firearmID.md
     image_circular: false
     more_info: 
-      
 
 ---

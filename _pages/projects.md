@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: profiles
 title: projects
 permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories:
 horizontal: false
 
 profiles:
@@ -26,8 +25,10 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: 
   - align: left
-    image: 
-    content: 
+    image: micravr2.png
+    content: firearmID.md
     image_circular: false
     more_info: 
       
+
+---

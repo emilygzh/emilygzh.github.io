@@ -25,7 +25,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: 
   - align: left
-    image: micravr2.png
+    image: firearmID.png
     content: firearmID.md
     image_circular: false
     more_info: 

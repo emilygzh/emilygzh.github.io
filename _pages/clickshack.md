@@ -16,23 +16,29 @@ images:
 
 The images in this post are all zoomable, arranged into different mini-galleries using different libraries.
 
-## [Black Hills, May 2025](https://lokeshdhakar.com/projects/lightbox2/)
+<h2><a href="#">Black Hills, May 2025</a></h2>
 
-<a href="/assets/img/sims.jpg" data-lightbox="black-hills">
-  <img src="/assets/img/sims.jpg" alt="Black Hills view" /></a>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="/assets/img/sims.jpg" data-lightbox="black-hills">
+    <img src="/assets/img/sims.jpg" alt="Black Hills" style="width: 200px; height: auto; border-radius: 4px;" />
+  </a>
+  <a href="/assets/img/sims.jpg" data-lightbox="black-hills">
+    <img src="/assets/img/sims.jpg" alt="Black Hills" style="width: 200px; height: auto; border-radius: 4px;" />
+  </a>
+  <a href="/assets/img/sims.jpg" data-lightbox="black-hills">
+    <img src="/assets/img/sims.jpg" alt="Black Hills" style="width: 200px; height: auto; border-radius: 4px;" />
+  </a>
+</div>
+
+---
+## [Badlands, May 2025]()
+
 <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" /></a>
 <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" /></a>
 <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" /></a>
 
 ---
-## [Badlands, May 2025](https://lokeshdhakar.com/projects/lightbox2/)
-
-<a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" /></a>
-<a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" /></a>
-<a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" /></a>
-
----
-## [Duke Gardens, March 2025](https://lokeshdhakar.com/projects/lightbox2/)
+## [Duke Gardens, March 2025]()
 
 <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" /></a>
 <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" /></a>

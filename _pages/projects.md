@@ -21,9 +21,13 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info:  
   - align: right
-    image: gradme.jpg
+    image: micrav2.png
     content: project_longevity.md
     image_circular: false # crops the image to make it circular
     more_info: 
+  - align: left
+    image: 
+    content: 
+    image_circular: false
+    more_info: 
       
----

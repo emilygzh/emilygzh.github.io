@@ -229,14 +229,14 @@ images:
 ## [MVHS Senior Sunrise, September 2022]()
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="/assets/img/senior_sunrise/senior_sunrise_1.jpeg" data-lightbox="senior-sunrise">
-    <img src="/assets/img/senior_sunrise/senior_sunrise_1.jpeg" alt="Senior Sunrise" style="width: 250px; height: auto; border-radius: 10px;" />
-  </a>
   <a href="/assets/img/senior_sunrise/senior_sunrise_2.jpeg" data-lightbox="senior-sunrise">
     <img src="/assets/img/senior_sunrise/senior_sunrise_2.jpeg" alt="Senior Sunrise" style="width: 250px; height: auto; border-radius: 10px;" />
   </a>
   <a href="/assets/img/senior_sunrise/senior_sunrise_3.jpeg" data-lightbox="senior-sunrise">
     <img src="/assets/img/senior_sunrise/senior_sunrise_3.jpeg" alt="Senior Sunrise" style="width: 250px; height: auto; border-radius: 10px;" />
+  </a>
+  <a href="/assets/img/senior_sunrise/senior_sunrise_1.jpeg" data-lightbox="senior-sunrise">
+    <img src="/assets/img/senior_sunrise/senior_sunrise_1.jpeg" alt="Senior Sunrise" style="width: 250px; height: auto; border-radius: 10px;" />
   </a>
   <a href="/assets/img/senior_sunrise/senior_sunrise_schooltalk.jpg" data-lightbox="senior-sunrise">
     <img src="/assets/img/senior_sunrise/senior_sunrise_schooltalk.jpg" alt="Senior Sunrise" style="width: 250px; height: auto; border-radius: 10px;" />

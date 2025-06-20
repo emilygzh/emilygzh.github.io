@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-clickshack",
           title: "clickshack",
-          description: "adventures captured on camera- coming soon!",
+          description: "memories captured on camera!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/clickshack/";

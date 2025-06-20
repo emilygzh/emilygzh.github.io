@@ -2,7 +2,7 @@
 layout: page
 title: clickshack
 permalink: /clickshack/
-description: adventures captured on camera- coming soon!
+description: memories captured on camera!
 nav: true
 nav_order: 4
 display_categories:

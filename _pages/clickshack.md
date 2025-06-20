@@ -108,14 +108,14 @@ images:
 ## [Friends at Lyndale Park, July 2024]()
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="/assets/img/lyndale_park/lyndale_park_1.jpg" data-lightbox="lyndale-park">
-    <img src="/assets/img/lyndale_park/lyndale_park_1.jpg" alt="Lyndale Park" style="width: 250px; height: auto; border-radius: 4px;" />
+  <a href="/assets/img/lyndale_park/lyndale_park_1.jpeg" data-lightbox="lyndale-park">
+    <img src="/assets/img/lyndale_park/lyndale_park_1.jpeg" alt="Lyndale Park" style="width: 250px; height: auto; border-radius: 4px;" />
   </a>
   <a href="/assets/img/lyndale_park/lyndale_park_2.jpg" data-lightbox="lyndale-park">
-    <img src="/assets/img/lyndale_park/lyndale_park_2.jpg" alt="Lyndale Park" style="width: 250px; height: auto; border-radius: 4px;" />
+    <img src="/assets/img/lyndale_park/lyndale_park_2.jpeg" alt="Lyndale Park" style="width: 250px; height: auto; border-radius: 4px;" />
   </a>
   <a href="/assets/img/lyndale_park/lyndale_park_3.jpg" data-lightbox="lyndale-park]">
-    <img src="/assets/img/lyndale_park/lyndale_park_3.jpg" alt="Lyndale Park" style="width: 250px; height: auto; border-radius: 4px;" />
+    <img src="/assets/img/lyndale_park/lyndale_park_3.jpeg" alt="Lyndale Park" style="width: 250px; height: auto; border-radius: 4px;" />
   </a>
 </div>
 

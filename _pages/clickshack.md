@@ -63,8 +63,8 @@ images:
   <a href="/assets/img/snow_duke/snow_2.jpg" data-lightbox="snow">
     <img src="/assets/img/snow_duke/snow_2.jpg" alt="Snow" style="width: 250px; height: auto; border-radius: 4px;" />
   </a>
-  <a href="assets/img/snow_duke/snow_3.jpg" data-lightbox="snow">
-    <img src="assets/img/snow_duke/snow_3.jpg" alt="Snow" style="width: 250px; height: auto; border-radius: 4px;" />
+  <a href="/assets/img/snow_duke/snow_3.jpg" data-lightbox="snow">
+    <img src="/assets/img/snow_duke/snow_3.jpg" alt="Snow" style="width: 250px; height: auto; border-radius: 4px;" />
   </a>
 </div>
 
@@ -138,14 +138,14 @@ images:
 ## [Prarie Bluffs, July 2023]()
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="assets/img/prairie_bluffs/prairie_1.JPG" data-lightbox="prairie-bluffs">
-    <img src="assets/img/prairie_bluffs/prairie_1.JPG" alt="Prairie Bluffs" style="width: 250px; height: auto; border-radius: 4px;" />
+  <a href="/assets/img/prairie_bluffs/prairie_1.JPG" data-lightbox="prairie-bluffs">
+    <img src="/assets/img/prairie_bluffs/prairie_1.JPG" alt="Prairie Bluffs" style="width: 250px; height: auto; border-radius: 4px;" />
   </a>
-  <a href="assets/img/prairie_bluffs/prairie_2.JPG" data-lightbox="prairie-bluffs">
-    <img src="assets/img/prairie_bluffs/prairie_2.JPG" alt="Prairie Bluffs" style="width: 250px; height: auto; border-radius: 4px;" />
+  <a href="/assets/img/prairie_bluffs/prairie_2.JPG" data-lightbox="prairie-bluffs">
+    <img src="/assets/img/prairie_bluffs/prairie_2.JPG" alt="Prairie Bluffs" style="width: 250px; height: auto; border-radius: 4px;" />
   </a>
-  <a href="assets/img/prairie_bluffs/prairie_3.JPG" data-lightbox="prairie-bluffs">
-    <img src="assets/img/prairie_bluffs/prairie_3.JPG" alt="Prairie Bluffs" style="width: 250px; height: auto; border-radius: 4px;" />
+  <a href="/assets/img/prairie_bluffs/prairie_3.JPG" data-lightbox="prairie-bluffs">
+    <img src="/assets/img/prairie_bluffs/prairie_3.JPG" alt="Prairie Bluffs" style="width: 250px; height: auto; border-radius: 4px;" />
   </a>
 </div>
 
@@ -153,17 +153,17 @@ images:
 ## [North Shore, March 2024]()
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="assets/img/north_shore/superior_1.JPG" data-lightbox="north-shore">
-    <img src="assets/img/north_shore/superior_1.JPG" alt="North Shore" style="width: 250px; height: auto; border-radius: 4px;" />
+  <a href="/assets/img/north_shore/superior_1.JPG" data-lightbox="north-shore">
+    <img src="/assets/img/north_shore/superior_1.JPG" alt="North Shore" style="width: 250px; height: auto; border-radius: 4px;" />
   </a>
-  <a href="assets/img/north_shore/superior_2.JPG" data-lightbox="north-shore">
-    <img src="assets/img/north_shore/superior_2.JPG" alt="North Shore" style="width: 250px; height: auto; border-radius: 4px;" />
+  <a href="/assets/img/north_shore/superior_2.JPG" data-lightbox="north-shore">
+    <img src="/assets/img/north_shore/superior_2.JPG" alt="North Shore" style="width: 250px; height: auto; border-radius: 4px;" />
   </a>
-  <a href="assets/img/north_shore/superior_3.JPG" data-lightbox="north-shore">
-    <img src="assets/img/north_shore/superior_3.JPG" alt="North Shore" style="width: 250px; height: auto; border-radius: 4px;" />
+  <a href="/assets/img/north_shore/superior_3.JPG" data-lightbox="north-shore">
+    <img src="/assets/img/north_shore/superior_3.JPG" alt="North Shore" style="width: 250px; height: auto; border-radius: 4px;" />
   </a>
-  <a href="assets/img/north_shore/superior_4.JPG" data-lightbox="north-shore">
-    <img src="assets/img/north_shore/superior_4.JPG" alt="North Shore" style="width: 250px; height: auto; border-radius: 4px;" />
+  <a href="/assets/img/north_shore/superior_4.JPG" data-lightbox="north-shore">
+    <img src="/assets/img/north_shore/superior_4.JPG" alt="North Shore" style="width: 250px; height: auto; border-radius: 4px;" />
   </a>
 </div>
 

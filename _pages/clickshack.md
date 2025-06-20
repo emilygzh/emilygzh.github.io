@@ -123,16 +123,16 @@ images:
   <a href="/assets/img/pancake_bunnies/pancake_bunnies_1.jpeg" data-lightbox="meals-from-the-heart">
     <img src="/assets/img/pancake_bunnies/pancake_bunnies_1.jpeg" alt="Meals From the Heart" style="width: 250px; height: auto; border-radius: 4px;" />
   </a>
-  <a href="/assets/img/pancake_bunnies/pancake_bunnies_2.jpeg" data-lightbox="meals-from-the-heart">
-    <img src="/assets/img/pancake_bunnies/pancake_bunnies_2.jpeg" alt="Meals From the Heart" style="width: 250px; height: auto; border-radius: 4px;" />
-  </a>
   <a href="/assets/img/pancake_bunnies/pancake_bunnies_3.jpeg" data-lightbox="meals-from-the-heart">
     <img src="/assets/img/pancake_bunnies/pancake_bunnies_3.jpeg" alt="Meals From the Heart" style="width: 250px; height: auto; border-radius: 4px;" />
+  </a>
+  <a href="/assets/img/pancake_bunnies/pancake_bunnies_2.jpeg" data-lightbox="meals-from-the-heart">
+    <img src="/assets/img/pancake_bunnies/pancake_bunnies_2.jpeg" alt="Meals From the Heart" style="width: 250px; height: auto; border-radius: 4px;" />
   </a>
 </div>
 
 ---
-## [Prarie Bluffs, July 2023]()
+## [Prairie Bluffs, July 2023]()
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="/assets/img/prairie_bluffs/prairie_1.JPG" data-lightbox="prairie-bluffs">
@@ -171,8 +171,8 @@ images:
   <a href="/assets/img/winter_pepfest/winter_pepfest_1.jpeg" data-lightbox="winter-pepfest">
     <img src="/assets/img/winter_pepfest/winter_pepfest_1.jpeg" alt="Winter Pepfest" style="width: 250px; height: auto; border-radius: 4px;" />
   </a>
-  <a href="/assets/img/winter_pepfest/winter_pepfest_2.jpeg" data-lightbox="winter-pepfest">
-    <img src="/assets/img/winter_pepfest/winter_pepfest_2.jpeg" alt="Winter Pepfest" style="width: 250px; height: auto; border-radius: 4px;" />
+  <a href="/assets/img/winter_pepfest/winter_pepfest_5.jpeg" data-lightbox="winter-pepfest">
+    <img src="/assets/img/winter_pepfest/winter_pepfest_5.jpeg" alt="Winter Pepfest" style="width: 250px; height: auto; border-radius: 4px;" />
   </a>
   <a href="/assets/img/winter_pepfest/winter_pepfest_3.jpeg" data-lightbox="winter-pepfest">
     <img src="/assets/img/winter_pepfest/winter_pepfest_3.jpeg" alt="Winter Pepfest" style="width: 250px; height: auto; border-radius: 4px;" />
@@ -180,8 +180,8 @@ images:
   <a href="/assets/img/winter_pepfest/winter_pepfest_4.jpeg" data-lightbox="winter-pepfest">
     <img src="/assets/img/winter_pepfest/winter_pepfest_4.jpeg" alt="Winter Pepfest" style="width: 250px; height: auto; border-radius: 4px;" />
   </a>
-  <a href="/assets/img/winter_pepfest/winter_pepfest_5.jpeg" data-lightbox="winter-pepfest">
-    <img src="/assets/img/winter_pepfest/winter_pepfest_5.jpeg" alt="Winter Pepfest" style="width: 250px; height: auto; border-radius: 4px;" />
+  <a href="/assets/img/winter_pepfest/winter_pepfest_2.jpeg" data-lightbox="winter-pepfest">
+    <img src="/assets/img/winter_pepfest/winter_pepfest_2.jpeg" alt="Winter Pepfest" style="width: 250px; height: auto; border-radius: 4px;" />
   </a>
 </div>
 
@@ -226,11 +226,11 @@ images:
   <a href="/assets/img/senior_sunrise/senior_sunrise_1.jpeg" data-lightbox="senior-sunrise">
     <img src="/assets/img/senior_sunrise/senior_sunrise_1.jpeg" alt="Senior Sunrise" style="width: 250px; height: auto; border-radius: 4px;" />
   </a>
-  <a href="/assets/img/senior_sunrise/senior_sunrise_1.jpeg" data-lightbox="senior-sunrise">
-    <img src="/assets/img/senior_sunrise/senior_sunrise_1.jpeg" alt="Senior Sunrise" style="width: 250px; height: auto; border-radius: 4px;" />
+  <a href="/assets/img/senior_sunrise/senior_sunrise_2.jpeg" data-lightbox="senior-sunrise">
+    <img src="/assets/img/senior_sunrise/senior_sunrise_2.jpeg" alt="Senior Sunrise" style="width: 250px; height: auto; border-radius: 4px;" />
   </a>
-  <a href="/assets/img/senior_sunrise/senior_sunrise_1.jpeg" data-lightbox="senior-sunrise">
-    <img src="/assets/img/senior_sunrise/senior_sunrise_1.jpeg" alt="Senior Sunrise" style="width: 250px; height: auto; border-radius: 4px;" />
+  <a href="/assets/img/senior_sunrise/senior_sunrise_3.jpeg" data-lightbox="senior-sunrise">
+    <img src="/assets/img/senior_sunrise/senior_sunrise_3.jpeg" alt="Senior Sunrise" style="width: 250px; height: auto; border-radius: 4px;" />
   </a>
   <a href="/assets/img/senior_sunrise/senior_sunrise_schooltalk.jpg" data-lightbox="senior-sunrise">
     <img src="/assets/img/senior_sunrise/senior_sunrise_schooltalk.jpg" alt="Senior Sunrise" style="width: 250px; height: auto; border-radius: 4px;" />

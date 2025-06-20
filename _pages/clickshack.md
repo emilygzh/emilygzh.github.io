@@ -96,9 +96,6 @@ images:
   <a href="/assets/img/femmes_hacks/hacks_8.jpg" data-lightbox="femmes-hacks">
     <img src="/assets/img/femmes_hacks/hacks_8.jpg" alt="FEMMES+ Hacks" style="width: 250px; height: auto; border-radius: 4px;" />
   </a>
-  <a href="/assets/img/femmes_hacks/hacks_9.jpg" data-lightbox="femmes-hacks">
-    <img src="/assets/img/femmes_hacks/hacks_9.jpg" alt="FEMMES+ Hacks" style="width: 250px; height: auto; border-radius: 4px;" />
-  </a>
   <a href="/assets/img/femmes_hacks/hacks_10.jpg" data-lightbox="femmes-hacks">
     <img src="/assets/img/femmes_hacks/hacks_10.jpg" alt="FEMMES+ Hacks" style="width: 250px; height: auto; border-radius: 4px;" />
   </a>

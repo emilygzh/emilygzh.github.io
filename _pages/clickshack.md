@@ -189,7 +189,7 @@ images:
 </div>
 
 ---
-## [Student Council Spirit Week, February 2023](https://lokeshdhakar.com/projects/lightbox2/)
+## [Student Council Spirit Week, February 2023]()
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="/assets/img/spirit_week/spirit_week_1.JPG" data-lightbox="spirit-week">
@@ -204,7 +204,7 @@ images:
 </div>
 
 ---
-## [Homecoming Cake Eating Contest, September 2022](https://lokeshdhakar.com/projects/lightbox2/)
+## [Homecoming Cake Eating Contest, September 2022]()
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="/assets/img/cake_eating/cake_eating_1.JPG" data-lightbox="cake-eating">

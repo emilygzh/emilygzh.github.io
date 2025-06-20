@@ -20,7 +20,7 @@ The images in this post are all zoomable, arranged into different mini-galleries
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="/assets/img/sims.jpg" data-lightbox="black-hills">
-    <img src="/assets/img/sims.jpg" alt="Black Hills" style="width: 200px; height: auto; border-radius: 4px;" />
+    <img src="/assets/img/sims.jpg" alt="Black Hills" style="width: 100px; height: auto; border-radius: 4px;" />
   </a>
   <a href="/assets/img/sims.jpg" data-lightbox="black-hills">
     <img src="/assets/img/sims.jpg" alt="Black Hills" style="width: 200px; height: auto; border-radius: 4px;" />

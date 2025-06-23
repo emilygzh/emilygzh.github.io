@@ -23,15 +23,16 @@ Led by our colleague Bill, this team of hardware engineers took meal packing ser
 <div class="caption">
     Meals From the Heart 
 </div>
-My team! I made a video
+
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/fuGNERjA02A?si=BFxjKcX-bJzUVpnh" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-<div class="col-
+<div class="caption">
+    My team! I made a video
+</div>
 
 Pancake Packing Bunny Co. Forever!
 

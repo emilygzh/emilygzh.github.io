@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Packing With Purpose- Engineers, Bunnies, and Meals
-date: 2024-12-04 01:59:00
+date: 2024-06-24 8:15:00
 description: Pancake Packing Bunnies at Medtronic
 tags: 
 categories: 
@@ -38,14 +38,14 @@ Pancake Packing Bunny Co. Forever!
         {% include figure.liquid path="assets/img/focus.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/meals.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/victory.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-<div class="row mt-3">
+<!-- <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/victory.jpeg" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
+</div> -->
 
 
 <!-- <div class="row mt-3">

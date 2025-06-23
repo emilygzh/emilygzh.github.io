@@ -13,7 +13,8 @@ images:
   venobox: true
 ---
 
- 
+Led by our colleague Bill, this team of hardware engineers took meal packing seriously. Gameplay meetings, role assignments, and practice led us to dominate every year. I think it's really remarkable that so many people can come together with this much energy and excitement for a good cause! 
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/meals.jpg" class="img-fluid rounded z-depth-1" %}
@@ -22,8 +23,7 @@ images:
 <div class="caption">
     Meals From the Heart 
 </div>
-My team!
-made a video
+My team! I made a video
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

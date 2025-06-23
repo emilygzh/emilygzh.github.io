@@ -101,12 +101,10 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "Mandarin Chinese",
-      "fluency": "Fluent",
       "icon": ""
     }
   ],

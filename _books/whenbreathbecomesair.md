@@ -6,8 +6,8 @@ olid: OL32830998M
 isbn: 9780812988406
 released: 2016-01-12
 buy_link: 
-started: 
-finished: 
+started: 2018-08-19
+finished: 2018-08-28
 stars: 
 goodreads_review: 
 status: Finished

@@ -6,8 +6,8 @@ olid: OL37049727M
 isbn: 9781501160622
 released: 1926-10-22
 buy_link: 
-started: 2022
-finished: 2022
+started: 2022-10-15
+finished: 2022-11-07
 stars: 5
 goodreads_review: 
 status: Finished

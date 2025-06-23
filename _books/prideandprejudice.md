@@ -6,8 +6,8 @@ olid: OL50424069M
 isbn: 
 released: 1813-01-28
 buy_link: 
-started: 2018
-finished: 2018
+started: 2018-07-06
+finished: 2018-07-11
 stars: 5
 goodreads_review: 
 status: Finished

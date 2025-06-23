@@ -6,7 +6,7 @@ author: Robert Greene
 olid: OL26974419M
 isbn: 
 buy_link: https://www.amazon.com/Laws-Human-Nature-Robert-Greene/dp/014311137X/ref=tmm_pap_swatch_0
-started: 2025
+started: 2025-05-01
 finished: 
 released: 1998
 stars: 

@@ -8,8 +8,8 @@ isbn:
 categories: 
 tags: 
 buy_link: https://www.amazon.com/All-Lovers-Night-Mieko-Kawakami/dp/1609456993
-started: 2024
-finished: 2024
+started: 2024-05-01
+finished: 2024-05-24
 released: 2022
 stars: 
 goodreads_review: 

@@ -1,4 +1,4 @@
-Growing up, I was constantly excited by new things. Learning all sorts of crafty skills, picking up new projects, and reading stories-- about how dinosaurs once roamed the earth, and how women used deadly nightshade during the Renaissance. 
+Growing up, I was easily amused and always busy-- crafting, working on projects, and reading encyclopedias. 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

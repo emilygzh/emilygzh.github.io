@@ -1,4 +1,4 @@
-I graduated from Mounds View High School in 2023, where I was heavily involved in Student Council, Minnesota Youth in Government, Science Olympiad, a few community service organizations, and orchestras. 
+I graduated from Mounds View High School in 2023, where I was heavily involved in Student Council, Minnesota Youth in Government, Science Olympiad, multiple community service organizations, and orchestras. 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

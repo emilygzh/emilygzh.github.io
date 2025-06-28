@@ -1,4 +1,4 @@
-I'm currently studying engineering at Duke-- still spirited with my passions and chasing my dreams of living an impactful life. 
+I'm currently studying engineering at Duke-- still spirited with my passions, learning everyday, and chasing my dreams of living an impactful life!
 <!-- Row 1: 3 photos -->
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
